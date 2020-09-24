@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Guia 4</string>
+    <string name="btn_servicios">Servicios</string>
+    <string name="mi_aplicacion_de_negocios">Mi aplicacion de Negocios</string>
+    <string name="boton_seleccionado">Boton seleccionado:</string>
+    <string name="ninguno">Ninguno</string>
+    <string name="portafolio">Portafolio</string>
+    <string name="acerca_de">Acerca De</string>
+    <string name="contacto">Contacto</string>
+    <string name="redes_sociales">Redes Sociales</string>
+    <string name="todo">TODO</string>
+</resources>
